@@ -11,8 +11,6 @@ Close real product gaps in the open. Every app here starts as a documented deman
 
 ## Milestones
 - NextTo is live: the public demand board that feeds this org.
-- LocusCal shipped (`v2026.9.16`)—calendar gaps closed end to end.
-- LocusUpdate is in the pipeline under this org.
 
 Browse demands and downloads: https://nextto.locusable.com  
 Studio: https://locusable.com
@@ -32,8 +30,6 @@ Studio: https://locusable.com
 
 ## 里程碑
 - NextTo 已上线：喂养本组织的公开需求看板。
-- LocusCal 已发版（`v2026.9.16`）——日历类缺口走通全流程。
-- LocusUpdate 已进本组织流水线。
 
 需求与下载：https://nextto.locusable.com  
 工作室：https://locusable.com
